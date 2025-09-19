@@ -6,6 +6,7 @@ datePublished: Fri Sep 19 2025 13:08:27 GMT+0000 (Coordinated Universal Time)
 cuid: cmfquv5e6000602jxh2ln4xu8
 slug: what-is-ml-supervised-vs-unsupervised-learning
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1758287502495/a2b2172c-ea40-465f-a92f-004de3fc92dd.avif
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1758287565483/5424960d-1cc5-4291-8a49-e718fe59b137.avif
 tags: ai, machine-learning, computer-science
 
 ---
