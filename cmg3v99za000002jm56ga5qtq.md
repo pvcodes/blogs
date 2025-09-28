@@ -444,4 +444,4 @@ The second panel presents a time series plot showing how the predicted and actua
 
 * Jupyter notebook - [pvcodes/bitcoin-price-prediction](https://colab.research.google.com/github/pvcodes/ml/blob/main/btc_price_prediction.ipynb)
     
-* HTML Version - [github/pvcodes/bitcoin-price-prediction](https://github/pvcodes/ml/blob/main/btc_price_prediction.ipynb/)
+* HTML Version - [github/pvcodes/bitcoin-price-prediction](https://github.com/pvcodes/ml/blob/main/btc_price_prediction.ipynb/)
