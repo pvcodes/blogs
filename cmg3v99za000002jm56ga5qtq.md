@@ -4,7 +4,7 @@ seoTitle: "Bitcoin Price Forecast with Linear Regression"
 seoDescription: "Beginner's guide using linear regression to predict Bitcoin prices. Learn key concepts, model building, and testing with historical data"
 datePublished: Sun Sep 28 2025 15:40:26 GMT+0000 (Coordinated Universal Time)
 cuid: cmg3v99za000002jm56ga5qtq
-slug: predicting-bitcoin-prices-with-linear-regression-a-beginner-friendly-guide
+slug: bitcoin-price-prediction-linear-regression
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1759064375749/6c141d9f-0cff-49fc-aa83-9d87aa7dc89f.jpeg
 tags: ai, machine-learning, bitcoin, linearregression
 
